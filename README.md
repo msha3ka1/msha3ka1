@@ -1,91 +1,36 @@
-# MegaNot
+ PAIN BOT | 🎩
+👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+ افتح ترمنال وحط هذه الكودات 👇 
 
-# [VentTM](https://github.com/VentTM/MegaNot)
+git clone https://github.com/Abutbar/PAIN.git
+وانتر
+cd PAIN
+وانتر
+chmod +x install.sh
+وانتر
+./install.sh
 
-*TG-CLI based broadcasting bot!*
+او نصب بكود واحد 
 
-```
-cd $HOME
-git clone https://github.com/VentTM/MagaNot.git
-cd MegaNot
-chmod +x launch.sh
-./launch.sh install
-./launch.sh
-# Enter a phone number & confirmation code.
-```
-Create a bot !
+git clone https://github.com/Abutbar/PAIN.git && cd PAIN && chmod +x install.sh && ./install.sh
 
-*Suorce BlackPlus Debuged*
-
-# Help And More...
-send ```Your PM``` to @PvSudoBot in telegram
-
-# Developers
-* [@By_BotCli](https://telegram.me/@By_BotCli) - Luper-lua
-* [@SudoMohammad](https://telegram.me/SudoMohammad) - Mohammad
-
-# Commands
-
-### All Commands
-
->[!/]createsuper [group name]
->
->>[!/]createsuperVent
->>>will create a SuperGroup
->>>
->>>_Only works in realms for admins but, sudo users can use it everywhere_
-
->[!/]ping
->>Test Online
->
->[!/]id
->>Send Your ID
-
-
->[!/]pin
->>Pinned MSG To GRoup
->
->[!/]unpin
->>UnPinned MSG To Group
-
->[!/]lock links
->>Lock Links MSG
-
->[!/]unlock links
->>UNLock Links MSG
->
->[!/]Mute all
->>Mute All MSG To Group
-
-
-> [!/]unmute all 
->>>UnMute All MSG To Group
-
-> [!/]settings
->>>Send Settings MSG
-
-> [!/]fwd
->>>Forward a MSG
-
-> [!/]username [username]
->>>SetUserName For Group
-
-> [!/]echo [MSG}
->>>Echo a MSG
-
-> [!/]setname [NAME]
->>>Set Name For Group
-
-> [!/]edit [TEXT]
->>>Editted MSG
-
-> [!/]view [reply]
->>>View a MSG
-
-> [!/]unmute all 
->>>UnMute All MSG To Group
-
-» And More...
-
-<b>Powered By VentTM</b>
-
+● وراح يطلب منك تحط اما y او n
+تختار دائما y وانتر ●
+🎩--------------------------------🎩
+وراه من يتنصب اغلق كل الترمنال  
+🎩--------------------------------🎩
+● تفتح ترمنال وتحط 👇
+redis-server
+🎩--------------------------------🎩
+● وراه تروح ع ملف
+PAIM.aul
+ 🎩 تخلي ايدي البوت 
+🎩 وايدي المطورين 
+🎩 وسوي رن من الملف PAIN.sh 
+❖--------------------------------
+● و مبروك نصبت سورس تشاكي بتيجي جديد وبميزات جديده ❤️
+🎩--------------------------------🎩
+DEV   @wwwala
+DEV   @T_zap
+تابع قناة السورس ليصلك كلشي جديد 
+@vps_no
