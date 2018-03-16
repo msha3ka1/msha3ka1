@@ -1,9 +1,7 @@
- PAIN BOT
-
-PAIN لتنصيب سورس  
-افتح ترمنال وحط هذه الكودات 
-
-git clone https://github.com/Abutbar/PAIN.git
+ msha3ka BOT
+لتنصيب سورس المشايخ
+افتح ترمنال وحط !!
+git clone https://github.com/msha3ka1/msha3ka1
 
 cd PAIN
 
@@ -13,7 +11,7 @@ chmod +x install.sh
 
 او نصب بكود واحد
 
-git clone https://github.com/Abutbar/PAIN.git && cd PAIN && chmod +x install.sh && ./install.sh
+git clone https://github.com/msha3ka1/msha3ka1 && cd msha3ka1 && chmod +x install.sh && ./install.sh
 
 ● وراح يطلب منك تحط اما y او n تختار دائما y وانتر ●
 
@@ -24,11 +22,11 @@ git clone https://github.com/Abutbar/PAIN.git && cd PAIN && chmod +x install.sh 
 redis-server
 
 🎩--------------------------------🎩 ● وراه تروح ع ملف
-PAIN.lua  وتخلي ايديك وايدي بوتك
+msha3ka.lua  وتخلي ايديك وايدي بوتك
 
-● وسوي رن من الملف PAIN.sh 🎩--------------------------------🎩
+● وسوي رن من الملف msha3ka1.sh 🎩--------------------------------🎩
 
-DEV   @wwwala
-DEV   @T_zap
+DEV   https://t.me/llN00Xll
+DEV   https://t.me/King_ZLM
  تابع قناة السورس ليصلك كلشي جديد 
- @vps_no
+ https://t.me/i_WAG
