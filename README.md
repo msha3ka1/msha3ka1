@@ -3,7 +3,7 @@
 افتح ترمنال وحط !!
 git clone https://github.com/msha3ka1/msha3ka1
 
-cd PAIN
+cd msha3ka1
 
 chmod +x install.sh
 
